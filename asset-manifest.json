@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sonali-portfolio/static/css/main.f1fd84d4.chunk.css",
+    "main.js": "/sonali-portfolio/static/js/main.09a70dd9.chunk.js",
+    "main.js.map": "/sonali-portfolio/static/js/main.09a70dd9.chunk.js.map",
+    "runtime-main.js": "/sonali-portfolio/static/js/runtime-main.5229589b.js",
+    "runtime-main.js.map": "/sonali-portfolio/static/js/runtime-main.5229589b.js.map",
+    "static/js/2.ccf3f2a8.chunk.js": "/sonali-portfolio/static/js/2.ccf3f2a8.chunk.js",
+    "static/js/2.ccf3f2a8.chunk.js.map": "/sonali-portfolio/static/js/2.ccf3f2a8.chunk.js.map",
+    "index.html": "/sonali-portfolio/index.html",
+    "precache-manifest.a5ac63397469d1bb10d4291aca1f0883.js": "/sonali-portfolio/precache-manifest.a5ac63397469d1bb10d4291aca1f0883.js",
+    "service-worker.js": "/sonali-portfolio/service-worker.js",
+    "static/css/main.f1fd84d4.chunk.css.map": "/sonali-portfolio/static/css/main.f1fd84d4.chunk.css.map",
+    "static/js/2.ccf3f2a8.chunk.js.LICENSE.txt": "/sonali-portfolio/static/js/2.ccf3f2a8.chunk.js.LICENSE.txt",
+    "static/media/burntToast.png": "/sonali-portfolio/static/media/burntToast.71399d43.png",
+    "static/media/labBook.png": "/sonali-portfolio/static/media/labBook.0adab17e.png",
+    "static/media/selfie.png": "/sonali-portfolio/static/media/selfie.1f9d0079.png",
+    "static/media/spacedRep.png": "/sonali-portfolio/static/media/spacedRep.2d2bbdd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5229589b.js",
+    "static/js/2.ccf3f2a8.chunk.js",
+    "static/css/main.f1fd84d4.chunk.css",
+    "static/js/main.09a70dd9.chunk.js"
+  ]
+}
