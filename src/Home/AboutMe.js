@@ -14,7 +14,7 @@ export class AboutMe extends Component {
         <div className='about-fullstack-section'>
         <section className='about-tech-section'>
           <h2>Front-end Developer</h2>
-          <p>I enjoy brining code to life through visuals and interactive elements.</p>
+          <p>I enjoy bringing code to life through visuals and interactive elements.</p>
 
           <h3>Languages</h3>
           <p>HTML, CSS, Sass, JavaScript</p>

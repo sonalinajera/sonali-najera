@@ -26,11 +26,11 @@ export class Projects extends Component {
           </p>
           <div className='a-button-div'>
 
-          <a href='https://burnt-toast-app.vercel.app/' className='a-button'>Visit Burnt Toast app</a>
+          <a href='https://burnt-toast-app.vercel.app/' className='a-button' rel="noreferrer noopener" target="_blank">Visit Burnt Toast app</a>
           </div>
           
          <div className='a-button-div'>
-          <a href='https://github.com/thinkful-ei-quail/Burnt-Toast-Client/' className='a-button'>Visit Burnt Toast repo</a>
+          <a href='https://github.com/thinkful-ei-quail/Burnt-Toast-Client/' className='a-button' rel="noreferrer noopener" target="_blank">Visit Burnt Toast repo</a>
          </div>
         </section>
         <section>
@@ -47,11 +47,11 @@ export class Projects extends Component {
           <p>This application uses Cypress to run end to end testing.</p>
           <div className='a-button-div'>
 
-          <a href='https://spaced-repetition-xi.vercel.app/register' className='a-button'>Visit Spaced Repetition app</a>
+          <a href='https://spaced-repetition-xi.vercel.app/register' className='a-button' rel="noreferrer noopener" target="_blank">Visit Spaced Repetition app</a>
           </div>
           <div className='a-button-div'>
 
-          <a href='https://github.com/sonalinajera/SR-Client-Sonali-Justin' className='a-button'>Visit Spaced Repetition repo</a>
+          <a href='https://github.com/sonalinajera/SR-Client-Sonali-Justin' className='a-button' rel="noreferrer noopener" target="_blank">Visit Spaced Repetition repo</a>
        </div>
         </section>
         <section>
@@ -66,11 +66,11 @@ export class Projects extends Component {
           </p>
           <div className='a-button-div'>
 
-          <a href='https://lab-book.vercel.app/' className='a-button'>Visit Lab Book app</a>
+          <a href='https://lab-book.vercel.app/' className='a-button' rel="noreferrer noopener" target="_blank">Visit Lab Book app</a>
           </div>
           <div className='a-button-div'>
 
-          <a href='https://github.com/sonalinajera/lab-book-client' className='a-button'>Visit Lab Book repo</a>
+          <a href='https://github.com/sonalinajera/lab-book-client' className='a-button' rel="noreferrer noopener" target="_blank">Visit Lab Book repo</a>
           </div>
         </section>
         </div>
