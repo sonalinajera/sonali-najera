@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import AboutMe from './Home/AboutMe';
+import AboutMeBonus from './Home/AboutMeBonus';
 import Header from './Home/Header';
 import Introduction from './Home/Introduction';
 import Projects from './Home/Projects';
@@ -24,6 +25,7 @@ export class App extends Component {
             <Contact />
           </Route>
           <Route exact path='/about'>
+            <AboutMeBonus />
             <AboutMe />
           </Route>
           <Route exact path='/projects'>
