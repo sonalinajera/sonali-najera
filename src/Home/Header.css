@@ -7,11 +7,13 @@
   justify-content: space-between;
   text-align: left;
   position: relative;
+  margin-bottom: 20px;
+  padding: 10px 0;
 }
 /*logo*/
 #logo {
-  margin-left: 20px;
-  padding: 5px;
+  margin-left: 30px;
+  padding: 10px;
 }
 
 .hide {
@@ -23,6 +25,7 @@
   flex-direction: column;
   justify-content: flex-end;
 }
+
 .nav {
   display: flex;
   flex-direction: column;
@@ -36,7 +39,7 @@
 
 .nav ul{
   margin: 2em auto;
-  padding: 3em;
+  padding: 1em;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -51,10 +54,12 @@
   border-radius: 15px;
   transition-duration: 100ms;
 }
+
 .nav li a:hover{
-  color: black;
-  background-color: aliceblue;
+  color: white;
+  background-color: #5B84B1FF;
 }
+
 .hamburger-menu {
   display: flex;
   flex-direction: column;
@@ -92,4 +97,36 @@
 }
 #username{
   font-size: 2em;
+}
+
+@media all and (max-width: 650px) {
+  .desktop-menu-group{
+    display: none;
+  }
+}
+
+@media all and (min-width: 650px) {
+  #dropdown-menu, .hamburger-menu{
+     display: none;
+  }
+  .Header{
+    max-height: 140px;
+    max-width: 900px;
+  }
+  .nav {
+    flex-direction: row;
+    margin-bottom: 0;
+    width: 500px;
+    height: 150px
+  }
+  .nav  li {
+    list-style-type: none;
+  }
+}
+
+@media all and (min-width: 950px) {
+  .Header{
+    width: 900px;
+    margin: auto;
+  }
 }

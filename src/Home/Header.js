@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-
-import Menu from './Menu';
+import Rose from '../Images/roseoutline.png'
 import './Header.css';
 
 export default class Header extends Component {
@@ -25,17 +24,17 @@ export default class Header extends Component {
         return (
             <>
                 <li>
-                    <Link onClick={this.handleMenuClick} to="/search">
+                    <Link onClick={this.handleMenuClick} to="/about">
                         About
                     </Link>
                 </li>
                 <li>
-                    <Link onClick={this.handleMenuClick} to={`/profile`}>
+                    <Link onClick={this.handleMenuClick} to={`/projects`}>
                         Projects
                     </Link>
                 </li>
                 <li>
-                    <Link onClick={this.handleMenuClick} to='/login'>
+                    <Link onClick={this.handleMenuClick} to='/contact'>
                         Contact
                     </Link>
                 </li>
@@ -44,12 +43,13 @@ export default class Header extends Component {
     }
 
     render() {
+
         return (
             <>
                 <header className="Header">
                     <div id="logo" className="Header-item">
                         <Link to=''>
-                            <img src='' alt="link redirects to home page" />
+                            <img src={Rose} alt="link redirects to home page" />
                         </Link>
                     </div>
                     <div id="username-and-menu" className="menu-group">
@@ -58,6 +58,10 @@ export default class Header extends Component {
                             <span className={this.state.menuOpen ? 'hide' : ''}></span>
                             <span className={this.state.menuOpen ? 'rotateUp' : ''}></span>
                         </div>
+
+                        <div className='desktop-menu-group nav'>
+                            {this.renderLinks()}
+                        </div>    
                     </div>
                 </header>
 
