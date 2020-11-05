@@ -18,7 +18,7 @@ export class App extends Component {
       <main className="App">
         <Header/>
         <Switch>
-          <Route exact path='/'>
+          <Route exact path={['/','/sonali-najera']}>
             <Introduction />
             <AboutMe />
             <Projects />
