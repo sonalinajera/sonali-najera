@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sonali-najera/static/css/main.f1fd84d4.chunk.css",
-    "main.js": "/sonali-najera/static/js/main.2e783ad8.chunk.js",
-    "main.js.map": "/sonali-najera/static/js/main.2e783ad8.chunk.js.map",
+    "main.js": "/sonali-najera/static/js/main.f17f84ba.chunk.js",
+    "main.js.map": "/sonali-najera/static/js/main.f17f84ba.chunk.js.map",
     "runtime-main.js": "/sonali-najera/static/js/runtime-main.127cb44d.js",
     "runtime-main.js.map": "/sonali-najera/static/js/runtime-main.127cb44d.js.map",
     "static/js/2.5d782b6d.chunk.js": "/sonali-najera/static/js/2.5d782b6d.chunk.js",
     "static/js/2.5d782b6d.chunk.js.map": "/sonali-najera/static/js/2.5d782b6d.chunk.js.map",
     "index.html": "/sonali-najera/index.html",
-    "precache-manifest.aa63f4ccb6abe84a00926f1b6e9c0c0a.js": "/sonali-najera/precache-manifest.aa63f4ccb6abe84a00926f1b6e9c0c0a.js",
+    "precache-manifest.7bf9b24725d62c33055bcb45c69d9393.js": "/sonali-najera/precache-manifest.7bf9b24725d62c33055bcb45c69d9393.js",
     "service-worker.js": "/sonali-najera/service-worker.js",
     "static/css/main.f1fd84d4.chunk.css.map": "/sonali-najera/static/css/main.f1fd84d4.chunk.css.map",
     "static/js/2.5d782b6d.chunk.js.LICENSE.txt": "/sonali-najera/static/js/2.5d782b6d.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.127cb44d.js",
     "static/js/2.5d782b6d.chunk.js",
     "static/css/main.f1fd84d4.chunk.css",
-    "static/js/main.2e783ad8.chunk.js"
+    "static/js/main.f17f84ba.chunk.js"
   ]
 }

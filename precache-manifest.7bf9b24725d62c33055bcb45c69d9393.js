@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c95f5f4cf25c7ec85319b01cf466b36",
+    "revision": "3310172aa94508093a9e30fc05a90175",
     "url": "/sonali-najera/index.html"
   },
   {
-    "revision": "3054ab3f7c9afbcc31e8",
+    "revision": "df6499880b5ef9629b7c",
     "url": "/sonali-najera/static/css/main.f1fd84d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sonali-najera/static/js/2.5d782b6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3054ab3f7c9afbcc31e8",
-    "url": "/sonali-najera/static/js/main.2e783ad8.chunk.js"
+    "revision": "df6499880b5ef9629b7c",
+    "url": "/sonali-najera/static/js/main.f17f84ba.chunk.js"
   },
   {
     "revision": "12cb0d9a311ac2ca431f",
