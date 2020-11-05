@@ -4,6 +4,7 @@ import Header from './Home/Header';
 import Introduction from './Home/Introduction';
 import Projects from './Home/Projects';
 import Contact from './Home/Contact';
+import Footer from './Home/Footer';
 import {
   Switch,
   Route,
@@ -32,6 +33,7 @@ export class App extends Component {
             <Contact />
           </Route>
         </Switch>
+        <Footer />
       </main>
     );
   }

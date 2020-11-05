@@ -75,7 +75,7 @@ export class Projects extends Component {
         </section>
         </div>
    
-        <h2>Projects I'm working on</h2>
+        <h2 className='current-projects'>Projects I'm working on</h2>
         <p>	&#47;	&#47; I'm currently working on building out a story-based game using Twine. This game will also feature my original digital art. 
           I hope the game will be a way to think and talk about substance abuse in the LGBT+ community. 
         </p>
